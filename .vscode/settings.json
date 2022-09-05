@@ -1,0 +1,10 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.strings": "swift",
+        "*.json": "json",
+        "unistd.h": "c",
+        "__threading_support": "c",
+        "cstdlib": "c"
+    }
+}
